@@ -1,0 +1,4 @@
+name        = giraffeiy admin
+description = admin theme by giraffeiy
+core        = 7.x
+base theme  = adminimal
